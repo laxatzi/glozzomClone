@@ -1,0 +1,12 @@
+.navbar-expand-sm .navbar-nav .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.navbar .nav-item.active {
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;
+}
+
