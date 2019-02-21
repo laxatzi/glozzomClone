@@ -1,3 +1,4 @@
+/* Navbar */
 .navbar-expand-sm .navbar-nav .nav-link {
   font-size: 14px;
   text-transform: uppercase;
@@ -9,7 +10,19 @@
   border-top: 1px solid #555;
   border-bottom: 1px solid #555;
 }
-.carousel-item {
-  height: 450px;
-  border: 1px solid green;
+
+/* Carousel */
+
+
+.carousel-image-1 {
+  background: url(../img/image1.jpg);
+  background-size: cover;
+}
+.carousel-image-2 {
+  background: url(../img/image2.jpg);
+  background-size: cover;
+}
+carousel-image-3 {
+   background: url(../img/image3.jpg);
+   background-size: cover;
 }
