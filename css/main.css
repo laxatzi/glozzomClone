@@ -53,14 +53,14 @@
 
     #video-section {
       position: relative;
-  min-height: 200px;
-  background: url('../img/media.jpg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position:0 -300;
-  text-align: center;
-  color: #fff;
-    }
+      min-height: 200px;
+      background: url('../img/media.jpg');
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position:0 -300;
+      text-align: center;
+      color: #fff;
+        }
 
     #video-section a {
       color: #fff;
