@@ -1,4 +1,6 @@
-
+body {
+  overflow-x: hidden;
+}
 /* Navbar */
 .navbar-expand-sm .navbar-nav .nav-link {
   font-size: 14px;
