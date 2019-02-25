@@ -35,7 +35,7 @@ body {
 
 /* Main Home Heading */
 
-#main-home_heading {
+#home-header {
   position: relative;
   min-height: 200px;
   background: url('../img/lights.jpg');
@@ -71,7 +71,7 @@ body {
 
 /* ^About */
 
-#about-header {
+#page-header {
   background-image: url('../img/image1.jpg');
   background-attachment: fixed;
   background-position: 0 -360px;
