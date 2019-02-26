@@ -2,6 +2,11 @@ body {
   overflow-x: hidden;
   font-size: 1.15rem;
 }
+
+footer#main-footer {
+  background-color: #000;
+  color: #fff;
+}
 /* Navbar */
 .navbar-expand-sm .navbar-nav .nav-link {
   font-size: 14px;
@@ -33,7 +38,7 @@ body {
    background-size: cover;
 }
 
-/* Main Home Heading */
+/* Main Home Header */
 
 #home-header {
   position: relative;
