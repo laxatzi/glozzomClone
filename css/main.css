@@ -7,6 +7,11 @@ footer#main-footer {
   background-color: #000;
   color: #fff;
 }
+
+.card-columns {
+  display: inline-block;
+}
+
 /* Navbar */
 .navbar-expand-sm .navbar-nav .nav-link {
   font-size: 14px;
