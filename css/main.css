@@ -118,4 +118,12 @@ footer#main-footer {
    .fa-3x {
      font-size: 2em;
    }
+
+   #staff-section .staff-member {
+     margin-bottom: 30px;
+
+   }
+   #staff-section .staff-member:last-child {
+     margin-bottom: none;
+   }
    }
